@@ -1,0 +1,10 @@
+[
+  {
+    "user_id": 0,
+    "username": "admin",
+    "fname": "Joe",
+    "lname": "Schmoe",
+    "password": "a",
+    "secret_message": ""
+  }
+]
